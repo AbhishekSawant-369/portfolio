@@ -1,6 +1,6 @@
 baseURL: "https://eclectic-sfogliatella-572e20.netlify.app/"
 languageCode: "en-us"
-title: "Abhhishek Sawant"
+title: "Abhishek Sawant"
 theme: "hugo-profile"
 
 outputs:
@@ -153,7 +153,7 @@ params:
           url: https://example.com
         - icon: fab fa-linkedin
           url: https://example.com
-      customIcons:
+      #customIcons:
         - icon: /fav.png
           url: "https://example.com"
 
