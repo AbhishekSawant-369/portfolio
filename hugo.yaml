@@ -154,8 +154,8 @@ params:
         - icon: fab fa-linkedin
           url: https://example.com
       #customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+       # - icon:
+          url: "#"
 
   # About
   about:
@@ -379,11 +379,11 @@ params:
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
+      #github: https://github.com
       linkedin: https://linkedin.com
-      twitter: https://twitter.com
+      #twitter: https://twitter.com
       instagram: https://instagram.com
-      facebook: https://facebook.com
+     # facebook: https://facebook.com
 
   # List pages like blogs and posts
   listPages:
