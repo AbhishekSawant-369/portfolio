@@ -1,7 +1,7 @@
 baseURL = "https://eclectic-sfogliatella-572e20.netlify.app/"
 languageCode = "en-us"
 title = "My Portfolio"
-theme = "."
+theme = "hugo-profile"
 
 #Enable syntax highlighting
 pygmentsCodeFences = true
