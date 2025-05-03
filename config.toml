@@ -1,0 +1,8 @@
+baseURL = "https://eclectic-sfogliatella-572e20.netlify.app/"
+languageCode = "en-us"
+title = "My Portfolio"
+theme = "."
+
+#Enable syntax highlighting
+pygmentsCodeFences = true
+pymentsUseClasses = true
