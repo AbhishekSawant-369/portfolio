@@ -35,10 +35,10 @@ Menus:
       title: Blog posts
       url: /blogs
       weight: 1
-    - identifier: gallery
-      name: Gallery
-      title: Blog posts
-      url: /gallery
+    - identifier: about
+      name: About me
+      title: About Abhishek
+      url: /about
       weight: 2
     #Dropdown menu
     # - identifier: dropdown
