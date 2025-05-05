@@ -34,12 +34,12 @@ Menus:
       name: Blog
       title: Blog posts
       url: /blogs
-      weight: 1
+      weight: 2
     - identifier: about
       name: About me
       title: About Abhishek
       url: /about
-      weight: 2
+      weight: 1
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
