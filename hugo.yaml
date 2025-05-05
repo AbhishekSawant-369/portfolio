@@ -152,13 +152,13 @@ params:
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
-    button:
+    #button:
       enable: true
       name: "Resume"
       url: "#"
       download: true
       newPage: false
-    socialLinks:
+    #socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-instagram
           url: https://example.com
