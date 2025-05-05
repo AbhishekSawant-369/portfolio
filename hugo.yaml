@@ -30,16 +30,27 @@ markup:
 
 Menus:
   main:
-    - identifier: blog
-      name: Blog
-      title: Blog posts
-      url: /blogs
-      weight: 2
     - identifier: about
       name: About me
       title: About Abhishek
       url: /about
       weight: 1
+    - identifier: projects
+      name: Projects
+      title: My Projects
+      url: /#projects
+      weight: 2
+    - identifier: blog
+      name: Blog
+      title: Blog posts
+      url: /blogs
+      weight: 3
+    - identifier: contact
+      name: Contact Me
+      title: Get in Touch
+      url: /#contact
+      weight: 4
+      
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
