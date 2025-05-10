@@ -23,11 +23,9 @@
                 {{ end }}
             </div>
         </div>
-    </div>
-</section>
+    
 
-<section id="education" class="py-5">
-    <div class="container">
+<!-- Education Section -->
         <h3 class="text-center">{{ .Site.Params.education.title | default "Education" }}</h3>
         <div class="row justify-content-center py-5">
             {{ $indexMenu := .Site.Params.education.index }}
@@ -88,11 +86,10 @@
             </div>
             {{ end }}
         </div>
-    </div>
-</section>
+    
 
-<section id="experience" class="py-5">
-    <div class="container">
+
+<!-- Experience Section -->
         <h3 class="text-center">{{ .Site.Params.experience.title | default "Experience" }}</h3>
         <div class="row justify-content-center">
             <div class="col-sm-12 col-md-8 col-lg-8 py-5">
