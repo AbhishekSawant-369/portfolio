@@ -1,18 +1,28 @@
-{{ define "main" }}
-<section id="about" class="py-5">
-  <div class="container">
-    <div class="row justify-content-center text-center mb-4">
-      <div class="col-lg-8">
-        <h2 class="section-title">About Me</h2>
-        <p class="section-subtitle">
-          I'm Abhishek Sawant — a product designer with experience in engineering, UX, and 3D printing. I love solving real-world problems through clean and thoughtful design.
-        </p>
-      </div>
-    </div>
+{{ if .Site.Params.about.enable | default false }}
+<section id="about" class="py-0 py-sm-5">
+    <div class="container bg-transparent">
+        <h3 class="text-center bg-transparent">{{ .Site.Params.about.title }}</h3>
+        <div class="bg-transparent row justify-content-center px-3 py-5">
+            {{ if .Site.Params.about.image }}
+            <div class="col-sm-12 col-md-8 col-lg-4 mb-5 mb-sm-0 mb-md-5 mb-lg-0 d-none d-sm-none d-md-block">
+                <div class="image d-flex px-5">
+                    <img src="{{ .Site.Params.about.image }}" class="img-thumbnail mx-auto rounded-circle" alt="">
+                </div>
+            </div>
+            {{ end }}
+            <div class="col-sm-12 col-md-12 col-lg-8 content">
+                {{ .Site.Params.about.content | markdownify }}
 
-    {{ partial "sections/experience.html" . }}
-    {{ partial "sections/education.html" . }}
-    
-  </div>
+                {{ if .Site.Params.about.skills.enable }}
+                {{ .Site.Params.about.skills.title }}
+                <ul>
+                    {{ range .Site.Params.about.skills.items }}
+                    <li>{{ . | markdownify }}</li>
+                    {{ end }}
+                </ul>
+                {{ end }}
+            </div>
+        </div>
+    </div>
 </section>
 {{ end }}
