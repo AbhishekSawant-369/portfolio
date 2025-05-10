@@ -182,7 +182,7 @@ params:
 
      I believe in continuous learning and love sharing knowledge through content, workshops, and collaboration.
     skills:
-      enable: true
+      enable: false
       title: "Here are a few technologies I've been working with recently:"
       items:
         - "HTML"
