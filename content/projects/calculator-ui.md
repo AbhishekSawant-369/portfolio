@@ -4,6 +4,8 @@ date:
 description: "A Figma based mobile calculator UI focusing on spacing and contrast."
 image: "/images/projects/calculator-ui.png"
 tags: ["UI Design", "Figma"]
+_build:
+  list: false
 ---
 
 ### Project Overview
