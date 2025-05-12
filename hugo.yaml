@@ -330,26 +330,22 @@ params:
       - title: "Minimal Calculator UI"
         content: A clean calculator UI built in Figma for quick, single-hand use. Designed to explore spacing, contrast, and accessibility.
         image: /images/projects/calculator-ui.png
-        featured:
-          name: Demo
-          link: /projects/calculator-ui/
+        #featured:
+          #name: Demo
+          #link: /projects/calculator-ui/
         badges:
           - "UI Design"
           - "Figma"
         links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+          - icon: fa fa-eye
+            url: /projects/calculator-ui/
 
       - title: WhatsApp Status Screen Redesign
         content: "A concept redesign of WhatsApp's status screen to improve clarity and overall interaction experience."
         image: /images/projects/whatsapp-redesign.png
-        featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
+        #featured:
+          #name: Demo
+          #link: https://django-converter.herokuapp.com
         badges:
           - "Figma"
           - "Redesign"
