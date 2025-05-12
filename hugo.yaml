@@ -354,7 +354,7 @@ params:
           - "Figma"
           - "Redesign"
         links:
-          - icon: fab fa-eye
+          - icon: fa fa-eye
             url: /projects/whatsapp-redesign/
 
       - title: Hugo Profile V2
