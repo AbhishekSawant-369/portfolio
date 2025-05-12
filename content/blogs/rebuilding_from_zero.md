@@ -2,7 +2,6 @@
 title: "Why I'm Rebuilding from Zero: My Design Journey Begins"
 date: 2025-05-01
 draft: false
-github_link: "https://github.com/gurusabarish/hugo-profile"
 author: "Abhishek"
 tags:
   - Emoji support
