@@ -329,7 +329,7 @@ params:
     items:
       - title: "Minimal Calculator UI"
         content: A clean calculator UI built in Figma for quick, single-hand use. Designed to explore spacing, contrast, and accessibility.
-        image: /images/projects/profile.png
+        image: /images/projects/calculator-ui.png
         featured:
           name: Demo
           link: /projects/calculator-ui/
