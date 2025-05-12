@@ -6,7 +6,7 @@ image: "/images/projects/calculator-ui.png"
 tags: ["UI Design", "Figma"]
 ---
 
-###Project Overview
+### Project Overview
 
 This is a minimalist mobile calculator UI I designed to explore space distribution, color contrast, and simplicity. Inspired by system apps but focused on readability and touch ergonomics.
 
