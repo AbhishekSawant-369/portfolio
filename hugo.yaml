@@ -346,7 +346,7 @@ params:
 
       - title: WhatsApp Status Screen Redesign
         content: "A concept redesign of WhatsApp's status screen to improve clarity and overall interaction experience."
-        image: /images/projects/converter.jpg
+        image: /images/projects/whatsapp-redesign.png
         featured:
           name: Demo
           link: https://django-converter.herokuapp.com
