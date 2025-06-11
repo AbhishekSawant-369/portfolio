@@ -365,7 +365,7 @@ params:
           - "Mobile App"
           - "Wellness"
         links:
-          - icon: fab fa-eye
+          - icon: fa fa-eye
             url: /projects/calmind/
 
   #Contact
