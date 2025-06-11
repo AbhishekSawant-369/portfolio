@@ -12,7 +12,7 @@ _build:
 
 ---
 
-## What is Calmind?
+## <i class="fas fa-circle"></i>What is Calmind?
 
 Calmind is a soft, private space to reflect on how you feel - one moment at a time.
 With no unnecessary complexity or overwhemling flows, it helps users log their mood, optionally journal, and receive gentle affirmations - all in under 2 minutes.
@@ -43,7 +43,7 @@ Most wellness apps are complicated and ask too much. Users just want something t
 
 ---
 
-## <i class="fas fa-magic"></i> A Calmer UX
+## <i class="fas fa-sparkle"></i> A Calmer UX
 
 Each screen was designed to:
 - Remove clutter
