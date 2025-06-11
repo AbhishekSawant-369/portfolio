@@ -62,7 +62,7 @@ User data stays on-device by default, with future support planned for opt-in syn
 ## <i class="fas fa-palette"></i> UI Snapshots
 
 <div style="overflow-x: auto; white-space: nowrap; padding: 1rem 0;">
-  <div style="display: inline-block; width: 220px; text-align: center; margin-right: 24px;">
+  <div style="display: inline-block; width: 220px; text-align: center; vertical-align: top; margin-right: 24px;">
     <img src="/images/projects/calmind-ui-home.png" alt="Home screen" style="width: 100%; border-radius: 12px;" />
     <div style="margin-top: 8px;"> 
       <strong>Home</strong><br />
