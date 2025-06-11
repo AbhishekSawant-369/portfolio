@@ -71,34 +71,34 @@ User data stays on-device by default, with future support planned for opt-in syn
   </div>
 
   <div style="display: inline-block; width: 250px; text-align: center; vertical-align: top; margin-right: 24px; white-space: normal;">
-    <img src="/images/projects/calmind-ui-home.png" alt="Home screen" style="height: 480px; border-radius: 12px;"/>
+    <img src="/images/projects/calmind-ui-mood-selector.png" alt="Mood Selector" style="height: 480px; border-radius: 12px;"/>
     <div style="margin-top: 8px;"> 
-      <strong>Home</strong><br />
-      <p style="font-size: 14px; color: #666; margin: 4px 0 0;">Clean start, one-tap to begin mood check-in</p>
+      <strong>Mood Selector</strong><br />
+      <p style="font-size: 14px; color: #666; margin: 4px 0 0;">Choose your emotion with emoji grid</p>
     </div>
   </div>
 
   <div style="display: inline-block; width: 250px; text-align: center; vertical-align: top; margin-right: 24px; white-space: normal;">
-    <img src="/images/projects/calmind-ui-home.png" alt="Home screen" style="height: 480px; border-radius: 12px;"/>
+    <img src="/images/projects/calmind-ui-journal.png" alt="Journal Entry" style="height: 480px; border-radius: 12px;"/>
     <div style="margin-top: 8px;"> 
-      <strong>Home</strong><br />
-      <p style="font-size: 14px; color: #666; margin: 4px 0 0;">Clean start, one-tap to begin mood check-in</p>
+      <strong>Journal Entry</strong><br />
+      <p style="font-size: 14px; color: #666; margin: 4px 0 0;">Optional space to write your thoughts</p>
     </div>
   </div>
 
   <div style="display: inline-block; width: 250px; text-align: center; vertical-align: top; margin-right: 24px; white-space: normal;">
-    <img src="/images/projects/calmind-ui-home.png" alt="Home screen" style="height: 480px; border-radius: 12px;"/>
+    <img src="/images/projects/calmind-ui-affirmation.png" alt="Affirmation" style="height: 480px; border-radius: 12px;"/>
     <div style="margin-top: 8px;"> 
-      <strong>Home</strong><br />
-      <p style="font-size: 14px; color: #666; margin: 4px 0 0;">Clean start, one-tap to begin mood check-in</p>
+      <strong>Affirmation</strong><br />
+      <p style="font-size: 14px; color: #666; margin: 4px 0 0;">Gentle message after each check-in</p>
     </div>
   </div>
 
   <div style="display: inline-block; width: 250px; text-align: center; vertical-align: top; margin-right: 24px; white-space: normal;">
-    <img src="/images/projects/calmind-ui-home.png" alt="Home screen" style="height: 480px; border-radius: 12px;"/>
+    <img src="/images/projects/calmind-ui-history.png" alt="Mood History" style="height: 480px; border-radius: 12px;"/>
     <div style="margin-top: 8px;"> 
-      <strong>Home</strong><br />
-      <p style="font-size: 14px; color: #666; margin: 4px 0 0;">Clean start, one-tap to begin mood check-in</p>
+      <strong>Mood History</strong><br />
+      <p style="font-size: 14px; color: #666; margin: 4px 0 0;">Calendar view of past emotional patterns</p>
     </div>
   </div>
 </div>
