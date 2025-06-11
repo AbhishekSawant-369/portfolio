@@ -354,19 +354,19 @@ params:
           - icon: fa fa-eye
             url: /projects/whatsapp-redesign/
 
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
+      - title: Calmind - A Mood & Wellness App
+        content: A calm, privacy-focused app for mood journaling and affirmations.
         image: /images/projects/profile2.jpg
-        featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
+        #featured:
+          #name: Demo V2
+          #link: https://hugo-profile-2.netlify.app
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "UX Case Study"
+          - "Mobile App"
+          - "Wellness"
         links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+          - icon: fab fa-eye
+            url: /projects/calmind/
 
   #Contact
   contact:
