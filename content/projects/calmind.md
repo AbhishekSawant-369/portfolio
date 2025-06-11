@@ -25,7 +25,7 @@ Most wellness apps are complicated and ask too much. Users just want something t
 
 ---
 
-## My Role
+## <h3><i class="fas fa-bullseye"></i> My Role</h3>
 
 - UX/UI Designer (solo project)
 - Visual design, flows, system, prototype
