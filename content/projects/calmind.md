@@ -8,7 +8,7 @@ _build:
   list: false
 ---
 
-# Calmind - A Mood & Wellness App
+# <i class="fas fa-spa"></i> Calmind - A Mood & Wellness App
 
 ---
 
@@ -19,7 +19,7 @@ With no unnecessary complexity or overwhemling flows, it helps users log their m
 
 ---
 
-## The Problem
+## <i class="fas fa-triangle-exclamation"></i> The Problem
 
 Most wellness apps are complicated and ask too much. Users just want something that listens - not judges.
 
@@ -33,7 +33,7 @@ Most wellness apps are complicated and ask too much. Users just want something t
 
 ---
 
-## What Calmind offers
+## <i class="fas fa-mobile-screen-button"></i> What Calmind offers
 
 - Emoji-based **mood selector**
 - Optional **journal entry**
@@ -43,7 +43,7 @@ Most wellness apps are complicated and ask too much. Users just want something t
 
 ---
 
-## A Calmer UX
+## <i class="fas fa-magic"></i> A Calmer UX
 
 Each screen was designed to:
 - Remove clutter
@@ -53,17 +53,17 @@ Each screen was designed to:
 
 ---
 
-## Private by Default
+## <i class="fas fa-lock"></i> Private by Default
 
 User data stays on-device by default, with future support planned for opt-in syncing or backups- enabling both privacy and long-term personalization.
 
 ---
 
-## UI Snapshots
+## <i class="fas fa-palette"></i> UI Snapshots
 
 ---
 
-## Case Study Access
+## <i class="fas fa-eye-slash"></i> Case Study Access
 
 A full breakdown of:
 - Design system
@@ -75,6 +75,6 @@ A full breakdown of:
 
 ---
 
-## Support My Work
+## <i class="fas fa-mug-hot"></i> Support My Work
 
 [Buy Me a Coffee ->](link)
