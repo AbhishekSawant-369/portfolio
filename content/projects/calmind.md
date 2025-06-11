@@ -2,7 +2,7 @@
 title: "Calmind - A Mood & Wellness App"
 date: 
 description: "A calming mood journaling app designed for emotional safety and minimalist UX."
-cover: ""
+image: "/images/projects/calmind-thumbnail.png"
 tags: ["UX Case Study", "Product Design", "Mobile App", "Wellness"]
 _build:
   list: false
@@ -60,6 +60,14 @@ User data stays on-device by default, with future support planned for opt-in syn
 ---
 
 ## <i class="fas fa-palette"></i> UI Snapshots
+
+<div style="overflow-x: auto; white-space: nowrap; padding: 1rem 0;">
+  <img src="/images/projects/calmind-ui-home.png" alt="Home screen" style="height: 480px; margin-right: 16px; display: inline-block;" />
+  <img src="/images/projects/calmind-ui-home.png" alt="Home screen" style="height: 480px; margin-right: 16px; display: inline-block;" />
+  <img src="/images/projects/calmind-ui-home.png" alt="Home screen" style="height: 480px; margin-right: 16px; display: inline-block;" />
+  <img src="/images/projects/calmind-ui-home.png" alt="Home screen" style="height: 480px; margin-right: 16px; display: inline-block;" />
+  <img src="/images/projects/calmind-ui-home.png" alt="Home screen" style="height: 480px; margin-right: 16px; display: inline-block;" />
+</div>
 
 ---
 
