@@ -63,7 +63,7 @@ User data stays on-device by default, with future support planned for opt-in syn
 
 <div style="overflow-x: auto; white-space: nowrap; padding: 1rem 0;">
   <div style="display: inline-block; width: 220px; text-align: center; vertical-align: top; margin-right: 24px;">
-    <img src="/images/projects/calmind-ui-home.png" alt="Home screen" style="width: 100%; border-radius: 12px;" />
+    <img src="/images/projects/calmind-ui-home.png" alt="Home screen" style="width: 100%; border-radius: 12px;"/>
     <div style="margin-top: 8px;"> 
       <strong>Home</strong><br />
       <p style="font-size: 14px; color: #666; margin: 4px 0 0;">Clean start, one-tap to begin mood check-in</p>
