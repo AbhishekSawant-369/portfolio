@@ -62,7 +62,7 @@ User data stays on-device by default, with future support planned for opt-in syn
 ## <i class="fas fa-palette"></i> UI Snapshots
 
 <div style="overflow-x: auto; white-space: nowrap; padding: 1rem 0;">
-  <div style="display: inline-block; width: 220px; text-align: center; vertical-align: top; margin-right: 24px; white-space: normal;">
+  <div style="display: inline-block; width: 400px; text-align: center; vertical-align: top; margin-right: 24px; white-space: normal;">
     <img src="/images/projects/calmind-ui-home.png" alt="Home screen" style="width: 100%; border-radius: 12px;"/>
     <div style="margin-top: 8px;"> 
       <strong>Home</strong><br />
@@ -70,7 +70,7 @@ User data stays on-device by default, with future support planned for opt-in syn
     </div>
   </div>
 
-  <div style="display: inline-block; width: 200px; text-align: center; margin-right: 16px;">
+  <div style="display: inline-block; width: 400px; text-align: center; margin-right: 16px;">
     <img src="/images/projects/calmind-ui-mood-selector.png" alt="Home screen" style="height: 480px; border-radius: 8px;" />
     <p style="margin-top: 8px; font-weight: bold;">Mood Selector</p>
     <p style="font-size: 14px; color: #666;">Choose your emotion via emoji grid</p>
