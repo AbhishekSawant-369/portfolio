@@ -43,7 +43,7 @@ Most wellness apps are complicated and ask too much. Users just want something t
 
 ---
 
-## <i class="fa-solid fa-sparkles"></i> A Calmer UX
+## <i class="fas fa-star"></i> A Calmer UX
 
 Each screen was designed to:
 - Remove clutter
