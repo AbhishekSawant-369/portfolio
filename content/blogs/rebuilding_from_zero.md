@@ -33,7 +33,5 @@ This blog isn't just for me - it's for anyone who feels like they're behind. For
 
 I don't have it all figured out. But I'm here - showing up, learning in public, growing brick by brick.
 
-Let's begin.<i class="fas fa-rocket"></i>
+Let's begin. <i class="fas fa-rocket"></i>
 
-
-Let's begin.
