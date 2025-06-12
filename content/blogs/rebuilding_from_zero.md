@@ -3,12 +3,9 @@ title: "Why I'm Rebuilding from Zero: My Design Journey Begins"
 date: 2025-05-01
 draft: false
 author: "Abhishek"
-tags:
-  - Emoji support
-  - Sample
-  - example
+tags: ["design journey", "self-taught", "career reset", "growth", "creative restart"]
 image: /images/post.jpg
-description: ""
+description: "A personal reflection on starting over, embracing discomfort, and choosing the uncertain road of creativity, design, and reinvention."
 toc: 
 ---
 
