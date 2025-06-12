@@ -392,9 +392,9 @@ params:
     socialNetworks:
       #github: https://github.com
       linkedin: https://linkedin.com
-      twitter: https://twitter.com
+      #twitter: https://twitter.com
       instagram: https://instagram.com
-      facebook: https://facebook.com
+      #facebook: https://facebook.com
 
   # List pages like blogs and posts
   listPages:
@@ -404,7 +404,7 @@ params:
   singlePages:
     socialShare: true
     readTime:
-      enable: true
+      enable: false
       content: "min read"
     scrollprogress:
       enable: true
