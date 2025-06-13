@@ -189,6 +189,12 @@
     }
  }
 
+@media (min-width: 360px) and (max-width: 768px) {
+    #single aside.aboutImg img {
+        width: 40%;
+    }
+ }
+
 
 #single aside.aboutImg h5 {
     margin: .7em 0;
