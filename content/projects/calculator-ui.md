@@ -46,7 +46,7 @@ Since calculators are mostly used with **one hand or both thumbs**, I tested dif
 With the concept ready, I jumped into Figma to bring it to life.
 
 - I experimented with **color schemes**, eventually choosing the **darkest tone** of the highlight color I introduced.
-- To create both **light and dark modes**, I used [Coolors.co](https://coolors.co) — an awesome tool for generating color palettes and checking color contrast.
+- To create both **light and dark modes**, I used **Coolors.co** — an awesome tool for generating color palettes and checking color contrast.
 
 ---
 
