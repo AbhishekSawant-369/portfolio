@@ -19,7 +19,7 @@ To begin, I explored various calculator UI designs through Google image searches
 
 ---
 
-### <i class="fas fa-note"></i> Key Design Goals
+### <i class="fas fa-edit"></i> Key Design Goals
 
 - Keep it **simple**, but not completely black and white - some subtle color should add character.
 - The design should feel **familiar**, similar to most native calculator apps.
