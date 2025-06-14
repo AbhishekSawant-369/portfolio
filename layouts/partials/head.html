@@ -43,6 +43,16 @@
 <!-- Add Font Awesome here -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="sha512-2hkKxyLpLVC0SvoWUEU2kTIEjE7E6oDrNuqJz1YXD9XPWc09czmImc6ipXJfyoMF+hzUYyOg7VmwYXeQwldKfQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-724LXMJ8KD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-724LXMJ8KD');
+</script>
+
 <style>
     :root {
         --text-color: {{ .Site.Params.color.textColor | default "#343a40" }};
