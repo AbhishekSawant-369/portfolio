@@ -54,7 +54,7 @@ This made the experience slower and less intuitive, especially for one-handed us
 ## <i class="fas fa-tools"></i> Tools Used
 
 - UI Design: Figma  
-- Research: Hands-on usage, peer feedback, and competitive app analysis
+- Research: Hands-on usage, peer feedback.
 
 ---
 
