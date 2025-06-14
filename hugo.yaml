@@ -327,8 +327,6 @@ params:
   projects:
     enable: true
     # title: "Custom Name"
-    datesFormat:
-      enable: false
     items:
       - title: "Minimal Calculator UI"
         content: A clean calculator UI built in Figma for quick, single-hand use. Designed to explore spacing, contrast, and accessibility.
