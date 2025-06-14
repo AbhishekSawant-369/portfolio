@@ -408,6 +408,8 @@ params:
       enable: true
     tags:
       openInNewTab: true
+    projects:
+      showDate: false
 
   # For translations
   terms:
