@@ -58,7 +58,7 @@ This made the experience slower and less intuitive, especially for one-handed us
 
 ---
 
-## <i class="fas fa-tools"></i> Final Thoughts
+## <i class="fas fa-comments-o"></i> Final Thoughts
 
 This was a quick but meaningful exercise in **micro-interaction improvement**. Sometimes, enhancing just one screen can spark a much smoother user journey.
 
