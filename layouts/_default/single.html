@@ -24,10 +24,6 @@
                 <small>|</small>
               {{ end }}
               {{ .Date.Format (.Site.Params.datesFormat.article | default "Jan 2, 2006") }}
-              
-              {{ if ne .Type "projects" }}
-                <p class="text-muted">{{ .Date.Format "Jan 2, 2006" }}</p>
-              {{ end}}
 
               {{ if or (.Site.Params.singlePages.readTime.enable | default true) (.Params.enableReadingTime) }}
               <span id="readingTime">
