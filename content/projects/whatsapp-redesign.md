@@ -33,9 +33,9 @@ This made the experience slower and less intuitive, especially for one-handed us
 
 ---
 
-## <i class="fas fa-stars"></i> The New Design
+## <i class="fas fa-star"></i> The New Design
 
-### <i class="fas fa-done"></i> What's changed:
+### <i class="fas fa-check"></i> What's changed:
 
 - **All edit icons** (text, marker, rotate, sticker) were **moved to the bottom** of the screen. This brings them within natural thumb reach, making the interaction faster and more comfortable.
 - **A new music icon** was added to allow users to add music clips to their status — making the experience richer and on par with competitor apps.
