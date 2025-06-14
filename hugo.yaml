@@ -327,7 +327,7 @@ params:
   projects:
     enable: true
     # title: "Custom Name"
-    date:
+    datesFormat:
       enable: false
     items:
       - title: "Minimal Calculator UI"
