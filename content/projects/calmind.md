@@ -1,5 +1,6 @@
 ---
 title: "Calmind - A Mood & Wellness App"
+date: false
 description: "A calming mood journaling app designed for emotional safety and minimalist UX."
 image: "/images/projects/calmind-thumbnail.png"
 tags: ["UX Case Study", "Product Design", "Mobile App", "Wellness"]
