@@ -1,6 +1,6 @@
 ---
 title: "Why I'm Rebuilding from Zero: My Design Journey Begins"
-date: 2025-05-01
+date: 2025-06-13
 draft: false
 author: "Abhishek"
 tags: ["design journey", "self-discovery", "career reset", "personal growth", "creativity", "life lessons", "starting out"]
