@@ -25,7 +25,7 @@
               {{ end }}
               {{ .Date.Format (.Site.Params.datesFormat.article | default "Jan 2, 2006") }}
               
-              {{ if .Site.Params.projects.showDate }}
+              {{ if ne .Type "projects" }}
                 <p class="text-muted">{{ .Date.Format "Jan 2, 2006" }}</p>
               {{ end}}
 
