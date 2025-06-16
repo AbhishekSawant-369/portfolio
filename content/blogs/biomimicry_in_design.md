@@ -4,7 +4,7 @@ date: 2025-06-16
 author: "Abhishek"
 tags: ["biomimicry", "nature design", "design thinking", "inspiration", "product design"]
 description: "Nature is the oldest designer. From bullet trains to self-cleaning paint, here's how biomimicry continues to shape our world."
-image: "/images/biomimicry.jpg"
+image: "/images/blogs/biomimicry.jpg"
 summary: "Nature has already solved many of the problems we’re trying to fix. In this article, I explore how animals, plants, and natural systems inspire smarter, simpler human design."
 toc:
 ---
