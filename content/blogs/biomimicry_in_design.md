@@ -33,7 +33,7 @@ While modern design often chases aesthetics, nature balances **form with functio
 
 ---
 
-### 🐦 1. Kingfisher → Bullet Train (Japan)
+### 1. Kingfisher → Bullet Train (Japan)
 
 Japan’s Shinkansen bullet train once had a serious problem. Every time it exited a tunnel at high speed, it created a loud sonic boom — disturbing wildlife and nearby residents.
 
@@ -48,7 +48,7 @@ He redesigned the train’s nose to mimic the kingfisher’s beak.
 
 ---
 
-### 🦈 2. Shark Skin → Hospital Walls & Swimsuits
+### 2. Shark Skin → Hospital Walls & Swimsuits
 
 Shark skin has microscopic grooves that reduce drag and prevent microorganisms from sticking to it.
 
@@ -60,7 +60,7 @@ A simple skin pattern helped solve problems in both sports and healthcare.
 
 ---
 
-### 🌿 3. Lotus Leaf → Self-Cleaning Tech
+### 3. Lotus Leaf → Self-Cleaning Tech
 
 Lotus leaves repel water and stay clean in muddy environments.
 
