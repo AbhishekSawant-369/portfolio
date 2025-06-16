@@ -1,14 +1,12 @@
 ---
 title: "Biomimicry in Design: What Nature Can Teach Us About Innovation"
 date: 2025-06-16
+author: "Abhishek"
 tags: ["biomimicry", "nature design", "design thinking", "inspiration", "product design"]
 description: "Nature is the oldest designer. From bullet trains to self-cleaning paint, here's how biomimicry continues to shape our world."
 image: "/images/biomimicry.jpg"
-summary: "Nature has already solved many of the problems we’re trying to fix. This post explores real-world examples where biomimicry changed the way we design."
----
-
-Nature has already solved many of the problems we’re trying to fix. In this article, I explore how animals, plants, and natural systems inspire smarter, simpler human design.
-
+summary: "Nature has already solved many of the problems we’re trying to fix. In this article, I explore how animals, plants, and natural systems inspire smarter, simpler human design."
+toc:
 ---
 
 > “Look deep into nature, and then you will understand everything better.” — Albert Einstein
