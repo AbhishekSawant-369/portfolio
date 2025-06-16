@@ -145,7 +145,7 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
+    intro: "Hi, I'm"
     title: "Abhishek."
     subtitle: "I design thoughtful digital products and experiences"
     content: "I'm a product designer with hands-on experience in UX, 3D printing, and engineering. Passionate about solving real-world problems with clean, functional design."
