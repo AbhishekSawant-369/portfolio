@@ -4,7 +4,7 @@ date: 2025-06-13
 draft: false
 author: "Abhishek"
 tags: ["design journey", "self-discovery", "career reset", "personal growth", "creativity", "life lessons", "starting out"]
-image: /images/rebuilding-from-zero.jpg
+image: /images/blogs/rebuilding-from-zero.jpg
 description: "A personal reflection on starting over, embracing discomfort, and choosing the uncertain road of creativity, design, and reinvention."
 toc: 
 ---
