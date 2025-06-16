@@ -97,6 +97,7 @@ Let’s learn from it.
 ---
 
 If you liked this article and want to support my work, you can buy me a coffee.
+
 <a href="https://buymeacoffee.com/abhisheksawant" target="_blank" rel="noopener">
   <img src="/images/buttons/yellow-button.png" alt="Buy Me a Coffee" style="height: 50px; margin-top: 10px;" />
 </a>
@@ -105,5 +106,5 @@ If you liked this article and want to support my work, you can buy me a coffee.
 
 ## Image Credits:
 
-Cover Image: [Photo by Siegfried Poepperl on Unsplash] 
+Cover Image: Photo by <a href="https://unsplash.com/@siegfriedpoepperl?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Siegfried Poepperl</a> on <a href="https://unsplash.com/photos/a-colorful-bird-flying-over-a-body-of-water-0wMxFlX1OeU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> 
 
