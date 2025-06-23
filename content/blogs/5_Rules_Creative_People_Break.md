@@ -83,7 +83,7 @@ So here’s your permission slip: gather different dots, move before you’re re
 
 ---
 
-If this sparked something, you can support and fuel my content journey by buying me a <i class="fas fa-coffee">coffee</i>.
+If this sparked something, you can support and fuel my content journey by buying me a coffee.
 
 <a href="https://buymeacoffee.com/abhisheksawant" target="_blank" rel="noopener">
   <img src="/images/buttons/yellow-button.png" alt="Buy Me a Coffee" style="height: 50px; margin-top: 10px;" />
