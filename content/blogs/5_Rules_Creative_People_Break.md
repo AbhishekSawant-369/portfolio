@@ -3,7 +3,8 @@ title: "5 Rules Creative People Break (And Why I’m Relearning Them)"
 description: "Creativity isn’t about talent. It’s about daring to break the right rules. Inspired by Steve Jobs and my own journey, here are 5 rules I’m unlearning as I rebuild from zero."
 slug: "5-rules-creative-people-break"
 tags: ["creativity", "mindset", "design thinking", "personal growth"]
-date: 2024-06-19
+date: 2025-06-23
+author: "Abhishek"
 thumbnail: "/images/blogs/5_Rules_Creative_People_Break.png"
 draft: false
 ---
@@ -82,7 +83,11 @@ So here’s your permission slip: gather different dots, move before you’re re
 
 ---
 
-☕ If this sparked something, you can [support me on Buy Me a Coffee](https://buymeacoffee.com/abhisheksawant) and fuel my content journey.  
+☕ If this sparked something, you can support me on Buy Me a Coffee and fuel my content journey.  
+
+<a href="https://buymeacoffee.com/abhisheksawant" target="_blank" rel="noopener">
+  <img src="/images/buttons/yellow-button.png" alt="Buy Me a Coffee" style="height: 50px; margin-top: 10px;" />
+</a>
 
 ```
 
