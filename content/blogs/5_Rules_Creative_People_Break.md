@@ -37,7 +37,7 @@ Creativity thrives in contrast. So instead of doubling down on just one skill, I
 
 Truth: I’ve overplanned myself into procrastination more times than I can count. Now, I build → test → reflect. Nothing great ever started with a perfect plan — it started with motion.
 
-🧠 Creativity isn’t prediction. It’s pattern recognition — later.
+Creativity isn’t prediction. It’s pattern recognition — later.
 
 **Action**: Start now, refine later. Launch the post, sketch the screen, make v1.
 
@@ -88,7 +88,5 @@ So here’s your permission slip: gather different dots, move before you’re re
 <a href="https://buymeacoffee.com/abhisheksawant" target="_blank" rel="noopener">
   <img src="/images/buttons/yellow-button.png" alt="Buy Me a Coffee" style="height: 50px; margin-top: 10px;" />
 </a>
-
-```
 
 ---
