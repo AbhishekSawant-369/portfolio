@@ -5,7 +5,7 @@ slug: "5-rules-creative-people-break"
 tags: ["creativity", "mindset", "design thinking", "personal growth"]
 date: 2025-06-23
 author: "Abhishek"
-thumbnail: "/images/blogs/5_Rules_Creative_People_Break.png"
+thumbnail: "/images/blogs/5_Rules_Creative_People_Break.jpg"
 draft: false
 ---
 
