@@ -1,6 +1,6 @@
 ---
 title: "5 Rules Creative People Break (And Why I’m Relearning Them)"
-description: "Creativity isn’t about talent. It’s about daring to break the right rules. Inspired by Steve Jobs and my own journey, here are 5 rules I’m unlearning as I rebuild from zero."
+summary: "Creativity isn’t about talent. It’s about daring to break the right rules. Inspired by Steve Jobs and my own journey, here are 5 rules I’m unlearning as I rebuild from zero."
 slug: "5-rules-creative-people-break"
 tags: ["creativity", "mindset", "design thinking", "personal growth"]
 date: 2025-06-23
