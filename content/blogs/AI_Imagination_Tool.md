@@ -9,8 +9,6 @@ image: "/images/blogs/ai_imagination_tool.jpg"
 draft: false
 ---
 
-## AI is just a tool. Your imagination is the weapon.
-
 We’re in an age where Artificial Intelligence can write poems, design logos, and suggest startup ideas before your coffee brews. But here’s the uncomfortable truth:
 
 > Tools evolve. But it’s your imagination that defines the outcome.
