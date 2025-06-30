@@ -1,6 +1,6 @@
 ---
 title: "AI is just a tool. Your imagination is the weapon"
-description: "In an age of powerful algorithms, your creativity—not the code—sets you apart. Here's why imagination still matters more than machine."
+summary: "In an age of powerful algorithms, your creativity—not the code—sets you apart. Here's why imagination still matters more than machine."
 slug: "ai-imagination-tool"
 tags: ["AI", "Creativity", "Tools", "Design Thinking", "Technology"]
 date: 2025-06-30
