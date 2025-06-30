@@ -5,7 +5,7 @@ slug: "ai-imagination-tool"
 tags: ["AI", "Creativity", "Tools", "Design Thinking", "Technology"]
 date: 2025-06-30
 author: "Abhishek"
-image: "images/ai-imagination-tool.jpg"
+image: "/images/blogs/ai-imagination-tool.jpg"
 draft: false
 ---
 
@@ -90,7 +90,11 @@ A hammer never built a home. It was always the builder. AI is your hammer. Use i
 
 ## ☕ Support this thought trail
 
-If this resonated, share it or [support me on Buy Me a Coffee](https://www.buymeacoffee.com/abhisheksawant). Every coffee powers the next idea.
+If this resonated, share it or support me with a Coffee. Every coffee powers the next idea.
+
+<a href="https://buymeacoffee.com/abhisheksawant" target="_blank" rel="noopener">
+  <img src="/images/buttons/yellow-button.png" alt="Buy Me a Coffee" style="height: 50px; margin-top: 10px;" />
+</a>
 
 ---
 
