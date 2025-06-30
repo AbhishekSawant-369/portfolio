@@ -5,7 +5,7 @@ slug: "ai-imagination-tool"
 tags: ["AI", "Creativity", "Tools", "Design Thinking", "Technology"]
 date: 2025-06-30
 author: "Abhishek"
-image: "/images/blogs/ai-imagination-tool.jpg"
+image: "/images/blogs/ai_imagination_tool.jpg"
 draft: false
 ---
 
