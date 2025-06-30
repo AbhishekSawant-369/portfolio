@@ -13,7 +13,7 @@ We’re in an age where Artificial Intelligence can write poems, design logos, a
 
 > Tools evolve. But it’s your imagination that defines the outcome.
 
-### 🧠 The Hook: Everyone has AI. Few have vision.
+### The Hook: Everyone has AI. Few have vision.
 
 The playing field is now absurdly level. You, me, and the world all have access to the same ChatGPT, Midjourney, or Claude. What separates a creator from a copy-paster isn’t the tech—it’s the intent. The idea. The soul.
 
@@ -21,7 +21,7 @@ So no, AI won’t replace you. But a human *with* imagination *using* AI might.
 
 ---
 
-## 🎨 Context: Why this matters now
+## Context: Why this matters now
 
 We’ve seen this movie before. New tech, new panic.
 
@@ -35,7 +35,7 @@ AI is simply the next canvas. And you? You’re still the artist.
 
 ---
 
-## 💡 3 Core Ideas That Prove This
+## 3 Core Ideas That Prove This
 
 ### 1. AI Can Imitate. Only You Can Invent.
 
@@ -68,7 +68,7 @@ Think of yourself less like a craftsman, more like a conductor. AI is the orches
 
 ---
 
-## ✍️ Let AI assist. Don’t let it replace your thinking.
+## Let AI assist. Don’t let it replace your thinking.
 
 Ask AI to brainstorm. But don’t forget to daydream.
 Use it to speed up tasks. But slow down for insight.
@@ -76,7 +76,7 @@ Let it draft. But you decide what stays.
 
 ---
 
-## 👣 Final Thoughts
+## Final Thoughts
 
 In the race between humans and machines, it’s tempting to believe tools win.
 
@@ -86,7 +86,7 @@ A hammer never built a home. It was always the builder. AI is your hammer. Use i
 
 ---
 
-## ☕ Support this thought trail
+## Support this thought trail
 
 If this resonated, share it or support me with a Coffee. Every coffee powers the next idea.
 
