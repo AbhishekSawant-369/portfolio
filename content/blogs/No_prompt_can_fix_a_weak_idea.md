@@ -1,9 +1,10 @@
 ---
 title: "No Prompt Can Fix a Weak Idea — Why Strategy Matters More Than Fancy AI Workflows"
-description: "AI can accelerate execution, but it can’t rescue a broken foundation. Here's why clarity, strategy, and original thinking still lead the way."
+summary: "AI can accelerate execution, but it can’t rescue a broken foundation. Here's why clarity, strategy, and original thinking still lead the way."
 slug: "no-prompt-can-fix-a-weak-idea"
 tags: ["AI", "Creativity", "Strategy", "Prompt Engineering", "Tools"]
-date: 2025-06-30
+date: 2025-07-09
+author: "Abhishek"
 image: "images/blogs/no_prompt_fix_a_weak_idea.jpg"
 draft: false
 ---
@@ -130,10 +131,11 @@ Think of AI as your co-pilot. Not your compass.
 
 ## Support this train of thought
 
-If this post helped you pause and reflect, consider [supporting me on Buy Me a Coffee](https://www.buymeacoffee.com/abhisheksawant). Every cup fuels another quiet insight.
+If this post helped you pause and reflect, consider supporting me with a coffee. Every cup fuels another quiet insight.
+
+<a href="https://buymeacoffee.com/abhisheksawant" target="_blank" rel="noopener">
+  <img src="/images/buttons/yellow-button.png" alt="Buy Me a Coffee" style="height: 50px; margin-top: 10px;" />
+</a>
 
 ---
-
-**Image Credit:** Banner designed with Midjourney, composited and edited by Abhishek Sawant using Canva.  
-Explore more ideas on [design, clarity, and systems](https://abhisheksawant.com/blog).
 
