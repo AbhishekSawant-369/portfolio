@@ -5,7 +5,7 @@ slug: "no-prompt-can-fix-a-weak-idea"
 tags: ["AI", "Creativity", "Strategy", "Prompt Engineering", "Tools"]
 date: 2025-07-09
 author: "Abhishek"
-image: "/images/blogs/no_prompt_fix_a_weak_idea.jpg"
+image: "/images/blogs/no_prompt_can_fix_a_weak_idea.jpg"
 draft: false
 ---
 
