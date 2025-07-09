@@ -10,6 +10,7 @@ draft: false
 ---
 
 ## No Prompt Can Fix a Weak Idea  
+
 ### Why strategy matters more than fancy AI workflows
 
 You’ve probably seen it too:
